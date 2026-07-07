@@ -30,3 +30,6 @@ A professional, bulletproof Python command-line application that tracks your sto
     ** yfinance (Yahoo Finance Data API)
 
     ** OpenPyXL (Excel File Generation)
+# 📈 Live Stock Portfolio Tracker
+
+> **Core Internship Project** developed as part of my remote programming and AI internship at **InternGrow** (July 2026). This project demonstrates data automation, financial APIs, and clean software development practices.
